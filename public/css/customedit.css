@@ -1,0 +1,17 @@
+body{background: #f7f7f7;}
+.main-content{min-height:800px}
+	.main_menu_side {
+    padding: 0;
+    margin-top: 56px;
+}
+/* Edit by sas*/
+
+.main-content{
+
+
+	    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+.right_col{height:100%;}
